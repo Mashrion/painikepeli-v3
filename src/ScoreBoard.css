@@ -1,0 +1,10 @@
+.Header .List{
+    position: absolute;
+    top: 30%;
+}
+
+.Header .List li {
+    margin: 20px 0;
+    font-size: large;
+    font-weight: bold;
+}

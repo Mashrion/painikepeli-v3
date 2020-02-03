@@ -1,0 +1,10 @@
+.Home .Lander {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.Home .Lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    padding-bottom: 100px;
+}
